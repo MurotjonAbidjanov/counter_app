@@ -50,7 +50,7 @@ class _MainState extends State<Main> {
           children: [
             GestureDetector(
               onTap: () {
-                log(" ===>");
+                
                 Navigator.push(
                   context,
                   MaterialPageRoute(
